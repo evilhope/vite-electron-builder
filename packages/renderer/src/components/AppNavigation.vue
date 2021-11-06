@@ -4,7 +4,7 @@
       Home
     </router-link>
     <span> | </span>
-    <router-link to="/about">
+    <router-link to="/categories">
       About
     </router-link>
   </nav>
