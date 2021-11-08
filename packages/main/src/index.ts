@@ -9,7 +9,7 @@ if (!isSingleInstance) {
   app.quit();
   process.exit(0);
 }
-//comment
+//commentario
 app.disableHardwareAcceleration();
 
 // Install "Vue.js devtools"
